@@ -18,7 +18,7 @@
 
 <p align="center">
   <samp>
-    곧 생길 예정
+    * 곧 생길 예정
   </samp>
 </p>
 
