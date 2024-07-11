@@ -1,10 +1,27 @@
-## Hi there 👋
+
 <p align="center">
   <samp>
     🌱Hi! I'm currently learning the programming in SSafy<br>
   </samp>
 </p>
----
+
+<h2>📁 Study Note</h2>
+<h3>Develop Note</h3>
+
+<p align="center">
+  <samp>
+    곧 생길 예정
+  </samp>
+</p>
+
+<h3>Projects</h3>
+
+<p align="center">
+  <samp>
+    곧 생길 예정
+  </samp>
+</p>
+
 
 
 <details>
