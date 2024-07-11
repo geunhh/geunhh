@@ -16,11 +16,9 @@
 
 <h3>Projects</h3>
 
-<p align="center">
-  <samp>
-    * 곧 생길 예정
-  </samp>
-</p>
+* 곧 생길 예정
+
+
 
 
 
