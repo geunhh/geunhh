@@ -9,7 +9,7 @@
 
 
 <details>
-  <summary><b>2024 goal</b></summary>
+  <summary><b>📫 2024 goal</b></summary>
   I want to complete more than 3 project in this year.
   <br>And I want to start studying ML 
     Maybe I can
