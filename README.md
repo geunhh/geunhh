@@ -1,8 +1,10 @@
 ## Hi there 👋
+<p align="center">
+  <samp>
+    🌱Hi! I'm currently learning the programming in SSafy team
+  </samp>
+</p>
 
-
-<!--
-**geunhh/geunhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <details>
   <summary><b>2024 goal</b></summary>
