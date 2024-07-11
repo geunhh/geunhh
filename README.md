@@ -15,7 +15,6 @@
     Maybe I can
 </details>
 
-Here are some ideas to get you started:
 
 <details>...
 - 🔭 I’m currently working on ...
