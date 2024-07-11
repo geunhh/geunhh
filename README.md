@@ -6,6 +6,8 @@
 </p>
 
 
+
+
 <details>
   <summary><b>2024 goal</b></summary>
   I want to complete more than 3 project in this year.
@@ -15,7 +17,7 @@
 
 Here are some ideas to get you started:
 
-<details>
+<details>...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -25,5 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 </details>
-
--->
