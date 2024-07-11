@@ -1,7 +1,13 @@
 ## Hi there 👋
 
+
 <!--
 **geunhh/geunhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<details>
+  <summary><b>2024 goal</b></summary>
+  hihi
+</details>
 
 Here are some ideas to get you started:
 
