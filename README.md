@@ -1,7 +1,7 @@
 
 <p align="center">
   <samp>
-    <b>🌱Hi! I'm currently learning the programming in SSafy<br>
+    <b>🌱Hi! I'm currently learning the programming in SSafy</b><br>
   </samp>
 </p>
 
