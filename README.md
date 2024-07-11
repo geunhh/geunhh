@@ -4,8 +4,6 @@
     🌱Hi! I'm currently learning the programming in SSafy<br>
   </samp>
 </p>
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
-
 
 
 
