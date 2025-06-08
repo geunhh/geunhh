@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi!%20I'm%20그니&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi!%20I'm%20김근휘&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
   <samp>
-    🌱 SSAFY에서 백엔드 개발을 공부하며, 매일 성장하고 있는 개발자 그니입니다.<br>
+    🌱 SSAFY에서 백엔드 개발을 공부하며, 매일 성장하고 있는 개발자 김근휘입니다.<br>
     Spring Boot, Django를 활용한 백엔드 개발에 집중하고 있습니다.
   </samp>
 </p>
