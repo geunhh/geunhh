@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://solved.ac/rmsgnl11">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rmsgnl11" />
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rmsgnl111" />
   </a>
 </p>
 
